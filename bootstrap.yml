@@ -1,7 +1,3 @@
-# CONFIG SERVER
-
-#spring.cloud.config.server.git.uri=https://github.com/GiovaneFGomes/spring-cloud-config
-
 # DATABASE MONGO CONFIG
 
 spring:
@@ -9,6 +5,3 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-
-#spring.data.mongodb.host=localhost
-#spring.data.mongodb.port=27017
