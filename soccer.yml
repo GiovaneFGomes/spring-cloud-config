@@ -1,7 +1,4 @@
 # DATABASE MONGO CONFIG
 
-spring:
-  data:
-    mongodb:
-      host: localhost
-      port: 27017
+server:
+  port: 9001
